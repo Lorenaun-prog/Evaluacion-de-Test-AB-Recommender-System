@@ -1,6 +1,6 @@
 # Evaluación de Test A/B — Sistema de Recomendaciones
 
-Nota: El nombre de la empresa ha sido anonimizado por motivos de confidencialidad.
+Nota: El nombre de la empresa ha sido modificado por motivos de confidencialidad.
 
 ¿Qué hice?
 
